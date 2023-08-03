@@ -1,3 +1,19 @@
+Lab: Cookie Stand Admin Version 2
+
+Project Creation
+Base project off Next + Tailwind Template
+npx create-next-app –example with-tailwindcss your-awesome-project
+
+cd your-awesome-project
+
+npm run dev
+
+To while project is running: Input your data into "Location", "Min", "Max" customers and "Average Cookies per sale".
+
+
+Contributions: Andrew Carroll, ChatGPT
+
+
 Next.js Projects
 
 
